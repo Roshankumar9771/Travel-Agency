@@ -1,2 +1,2 @@
-# Travel-Agency
+# SplitWise
 this is travel agency website.
